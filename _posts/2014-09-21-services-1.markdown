@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Add animations and audio:
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  With our online software, you can easily animate and add audio directly into your ebook.

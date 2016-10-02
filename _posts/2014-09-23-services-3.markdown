@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Easy as 1 2 3!
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Want to supplement your ebook with video? No problem! Just add any URL or upload your video right to our site and add it into your ebook!
