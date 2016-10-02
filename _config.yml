@@ -22,6 +22,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: mail
+  - title: fa-envelope
     url: mailto:embertech.io@gmail.com
 
