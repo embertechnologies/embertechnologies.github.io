@@ -22,9 +22,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/
-  - title: github
-    url: https://github.com/embertechnologies
-  - title: linkedin
-    url: 
+  - title: email
+    url: mailto:embertech.io@gmail.com
+
