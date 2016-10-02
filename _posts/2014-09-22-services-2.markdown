@@ -1,7 +1,7 @@
 ---
 layout: default
 img: dog.png
-category: Images
+category: Services
 title: Adding images to your ebook
 description: |
 ---
