@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: delicate.jpg
 category: Services
 title: Adding images to your ebook
 description: |
