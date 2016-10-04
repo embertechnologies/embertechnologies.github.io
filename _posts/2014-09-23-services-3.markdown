@@ -1,6 +1,6 @@
 ---
 layout: default
-img: girlinflowers.jpg
+img: book.jpg
 category: Services
 title: Easy as 1 2 3!
 description: |
